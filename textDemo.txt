@@ -1,2 +1,3 @@
 This is demo text file edited on Koding VM.
 It will be stored to github...
+2. change
